@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Aug 30 12:15:44 2024
+
+@author: HP
+"""
+
+numberl = 100
+print(”The type of number1 ”,type(number 1))
+integer_1 = 100
+integer_2 = 50
+print (integer_1*integer_2)
+print(integer_1+integer_2) 
+print(integer_1-integer_2) 
+print(integer_1/integer_2)
